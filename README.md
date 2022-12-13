@@ -1,6 +1,6 @@
 # myCSSScripts
 
-[点击安装](https://raw.githubusercontent.com/Sciroccogti/myCSSScripts/master/dist/Sciroccogti-CSS.user.js)
+[点击安装](https://raw.githubusercontent.com/Sciroccogti/myCSSScripts/master/Sciroccogti-CSS.user.js)
 
 ## LeetCode font-size
 
