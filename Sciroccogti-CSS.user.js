@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            Sciroccogti-CSS
-// @version         0.2
+// @version         0.3
 // @description     个人的CSS样式脚本
 // @updateURL       https://raw.githubusercontent.com/Sciroccogti/myCSSScripts/master/dist/Sciroccogti-CSS.user.js
 // @downloadURL     https://raw.githubusercontent.com/Sciroccogti/myCSSScripts/master/dist/Sciroccogti-CSS.user.js
@@ -26,6 +26,8 @@
         /* leetcode editor */
         .monaco-mouse-cursor-text {
             font-family: Sarasa Mono SC Nerd !important;
+            font-weight: 600 !important;
+            letter-spacing: 0.1rem !important;
         }
 
         /* gitlab code */
